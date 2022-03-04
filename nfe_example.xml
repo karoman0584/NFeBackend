@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>  
+<nfe>
+	<numero>1</numero>
+	<dhRegistro>2022-03-04T10:15:30</dhRegistro>
+	<nomeEmitente>Joao Pereira</nomeEmitente>
+	<nomeDestinatario>Felipe Rodrigues</nomeDestinatario>
+	<valorNota>100.55</valorNota>
+	<duplicatas>
+		<duplicata>
+			<parcela>1</parcela>
+			<valor>50.00</valor>
+			<dataVencimento>2022-04-04</dataVencimento>
+		</duplicata>
+		<duplicata>
+			<parcela>2</parcela>
+			<valor>50.55</valor>
+			<dataVencimento>2022-05-04</dataVencimento>
+		</duplicata>
+	</duplicatas>  
+</nfe>  
